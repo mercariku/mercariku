@@ -1,4 +1,4 @@
-![Alt Text](https://mintbook.com/assetsNew/img/finance.gif)
+![Alt text](./undraw_data_vector.svg)
 
 ### Hi there, I'm the Japanese 🇯🇵 guy with two Irish 🇮🇪 names who speaks in an American 🇺🇸 accent 
 
